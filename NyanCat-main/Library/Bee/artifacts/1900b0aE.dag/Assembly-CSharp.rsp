@@ -340,6 +340,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Menu.cs"
+"Assets/pause.cs"
 "Assets/PlayerMovment.cs"
 "Assets/Scripts/GameHandler.cs"
 -langversion:9.0
